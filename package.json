@@ -1,0 +1,52 @@
+{
+  "name": "my-gis-app",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.27",
+    "@fortawesome/free-solid-svg-icons": "5.12.1",
+    "@fortawesome/react-fontawesome": "0.1.11",
+    "@material-ui/core": "4.11.0",
+    "@material-ui/icons": "4.9.1",
+    "babel-core": "6.26.3",
+    "font-awesome": "4.7.0",
+    "html-screen-capture-js": "1.0.47",
+    "html2canvas": "1.0.0-rc.5",
+    "leaflet": "1.6.0",
+    "leaflet-draw": "1.0.4",
+    "leaflet-easybutton": "2.4.0",
+    "leaflet-easyprint": "2.1.9",
+    "leaflet-fullscreen": "1.0.2",
+    "leaflet-minimap": "3.6.1",
+    "leaflet-providers": "1.10.2",
+    "leaflet-zoombox": "0.5.1",
+    "leaflet.control.layers.tree": "1.0.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-leaflet": "2.6.1",
+    "react-leaflet-box-zoom": "1.0.2",
+    "react-leaflet-draw": "0.19.0",
+    "react-leaflet-easyprint": "2.0.0",
+    "react-leaflet-linear-ruler": "0.0.4",
+    "react-leaflet-measure": "2.1.1",
+    "react-leaflet-street-view": "1.0.9",
+    "react-scripts": "3.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
